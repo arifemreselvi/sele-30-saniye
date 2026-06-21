@@ -160,17 +160,15 @@ Rastgele olaylar şu değerleri etkileyebilir:
 
 Oyuncu seçilen zorluk seviyesine göre belirli gün sayısı boyunca dayanmalıdır.
 
-| Zorluk | Kurtarma Günü |
-| --- | --- |
-| Kolay | 6 gün |
-| Normal | 7 gün |
-| Zor | 8 gün |
-
-Kaybetme durumları:
+Kaybetme koşulları:
 
 - Sağlığın `0` veya altına düşmesi
 - Açlık veya susuzluğun kritik seviyeye ulaşması
 - Korku ve can sıkıntısının birlikte çok yükselmesi
+
+Kazanma koşulları:
+-7. güne kadar dayanma
+-Değelerlerin 100'den aşağıda olması
 
 Kazanma durumunda oyuncu yardım ekipleri gelene kadar dayanmış olur.
 

@@ -167,8 +167,8 @@ Kaybetme koşulları:
 - Korku ve can sıkıntısının birlikte çok yükselmesi
 
 Kazanma koşulları:
--7. güne kadar dayanma
--Değelerlerin 100'den aşağıda olması
+- 7. güne kadar dayanabilmek
+- Değelerlerin 100'den aşağıda olması
 
 Kazanma durumunda oyuncu yardım ekipleri gelene kadar dayanmış olur.
 

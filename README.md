@@ -33,7 +33,7 @@ Oyun iki ana bölümden oluşur.
 | `E` | Yakındaki eşyayı alma veya etkileşim kurma |
 | `SPACE` | Intro cutscene sahnesini atlama |
 | `ESC` | Oyunu duraklatma / pause menüsünü açma |
-| Mouse Sol Tık | Menü ve karar butonlarını kullanma |
+| `Mouse Sol Tık` | Menü ve karar butonlarını kullanma |
 
 ## Oyun Mekanikleri
 

@@ -1,19 +1,15 @@
-# Sele 30 Saniye
+# 🌊 Sele 30 Saniye 🏃‍♂️💨
 
 **Sele 30 Saniye**, sel ve tsunami gibi su kaynaklı afetlerde doğru hazırlık yapmayı ve kriz anında kaynakları bilinçli kullanmayı öğreten Unity tabanlı bir afet farkındalık oyunudur.
 
 Oyuncu önce afet alarmı sonrası ev içinde sınırlı sürede acil durum çantası hazırlar, ardından çatıya çıkarak topladığı eşyalarla yardım ekipleri gelene kadar hayatta kalmaya çalışır.
 
-## Geliştirici
+## Geliştirici 👨‍💻
 
 - **İsim:** Arif Emre Selvi
 - **Akademik Durum:** 2. sınıf YBS (Yönetim Bilişim Sistemleri) Öğrencisi
 
-## Oyunun Öğrettiği Şeyler
-
-Bu oyun, özellikle afet anında hızlı ama doğru karar vermenin önemini anlatır.
-
-Oyunun ana öğrenme hedefleri:
+## Oyunun Öğretmeyi Amaçladığı Hedefler 🧠
 
 - Afet alarmı sonrası hangi eşyaların gerçekten önemli olduğunu öğretmek
 - Su, yemek, sağlık ve iletişim araçlarının önemini göstermek
@@ -21,15 +17,15 @@ Oyunun ana öğrenme hedefleri:
 - Yardım beklerken kaynak yönetimi yapmayı öğretmek
 - 112 Acil Çağrı ve güvenli alana geçiş bilinci kazandırmak
 
-## Oynanış Özeti
+## Oynanış Özeti 🎯
 
 Oyun iki ana bölümden oluşur.
 
 İlk bölümde oyuncu evin içinde 30 saniye boyunca acil durum eşyaları toplar. Çanta kapasitesi sınırlıdır, bu yüzden her eşya doğru seçim olmayabilir.
 
-İkinci bölümde oyuncu çatıya ulaştıktan sonra gün gün hayatta kalmaya çalışır. Su, yemek, sağlık, korku ve can sıkıntısı gibi değerler oyuncunun kararlarına göre değişir.
+İkinci bölümde oyuncu çatıya ulaştıktan ilk bölümde topladığı eşyaları verimli kullanarak 7 gün hayatta kalmaya çalışır. Su, yemek, sağlık, korku ve can sıkıntısı gibi değerler oyuncunun kararlarına göre değişir.
 
-## Kontroller
+## Kontroller ⌨️
 
 | Tuş / Etkileşim | İşlev |
 | --- | --- |
@@ -41,7 +37,7 @@ Oyun iki ana bölümden oluşur.
 
 ## Oyun Mekanikleri
 
-### 1. Evde Hazırlık Bölümü
+### 1. Evde Hazırlık Bölümü 🏠
 
 Oyuncu afet alarmından sonra ev içinde dolaşır ve 30 saniye içinde çantasına eşya toplamaya çalışır.
 
@@ -55,7 +51,7 @@ Bu bölümde:
 - Süre bitince karakter kontrolü kapanır
 - Karakter otomatik olarak merdivene / güvenli geçiş noktasına yönelir
 
-### 2. Envanter ve Eşya Seçimi
+### 2. Envanter ve Eşya Seçimi 🎒
 
 Oyunda toplam 15 farklı eşya bulunur.
 
@@ -82,7 +78,7 @@ Daha düşük öncelikli veya riskli eşyalar:
 
 Bazı eşyalar ilk bakışta gereksiz gibi görünse de ikinci bölümde moral veya özel olaylar açısından farklı etkiler oluşturabilir. Ancak temel afet hazırlığında su, yemek, sağlık ve iletişim eşyaları çok daha kritiktir.
 
-### 3. Hazırlık Puanı
+### 3. Hazırlık Puanı 💯
 
 İlk bölümden sonra oyuncunun topladığı eşyalar değerlendirilir.
 
@@ -103,7 +99,7 @@ Hazırlık sonucu üç seviyeden biriyle gösterilir:
 
 Bu ekranda her eşya için kısa bir geri bildirim verilir. Oyuncu neyi doğru seçtiğini ve hangi seçimin neden zayıf olduğunu öğrenir.
 
-### 4. Çatıda Hayatta Kalma Bölümü
+### 4. Çatıda Hayatta Kalma Bölümü ⛺
 
 İkinci bölümde oyuncu artık çatıdadır. Amaç, yardım ekipleri gelene kadar hayatta kalmaktır.
 
@@ -124,7 +120,7 @@ Takip edilen değerler:
 | Korku | Panik ve kriz riskini artırır |
 | Sağlık | Sıfıra düşerse oyun kaybedilir |
 
-### 5. Stok Sistemi
+### 5. Stok Sistemi 🥣
 
 Toplanan bazı eşyalar ikinci bölümde doğrudan kaynağa dönüşür.
 
@@ -134,7 +130,7 @@ Toplanan bazı eşyalar ikinci bölümde doğrudan kaynağa dönüşür.
 
 Oyuncu kaynakları erken tüketirse sonraki günlerde zor durumda kalabilir.
 
-### 6. Rastgele Olaylar
+### 6. Rastgele Olaylar ♾️
 
 Çatı bölümünde gün içinde veya gün sonunda rastgele olaylar yaşanabilir.
 
@@ -156,7 +152,7 @@ Rastgele olaylar şu değerleri etkileyebilir:
 - Su stoğu
 - Yemek stoğu
 
-### 7. Kazanma ve Kaybetme
+### 7. Kazanma ve Kaybetme 🏆
 
 Oyuncu seçilen zorluk seviyesine göre belirli gün sayısı boyunca dayanmalıdır.
 
@@ -172,38 +168,7 @@ Kazanma koşulları:
 
 Kazanma durumunda oyuncu yardım ekipleri gelene kadar dayanmış olur.
 
-## Oyundaki Sahneler
-
-Projede kullanılan ana sahneler:
-
-| Sahne | Açıklama |
-| --- | --- |
-| `Boot` | Kalıcı sistemlerin başlatıldığı açılış sahnesi |
-| `MainMenu` | Ana menü, yeni oyun, devam et, ayarlar ve çıkış ekranı |
-| `Intro_Cutscene` | Afet uyarısı, haber akışı ve 112 bilgilendirme sahnesi |
-| `HouseLoot_3D` | 30 saniyelik ev içinde eşya toplama bölümü |
-| `Flood_Impact_Cutscene` | Sel etkisini gösteren geçiş / atmosfer sahnesi |
-| `Chapter1Evaluation` | Toplanan eşyaların değerlendirildiği puan ekranı |
-| `RoofIntro` | Çatı bölümüne geçmeden önce bilgilendirme ekranı |
-| `RoofSurvival_2DStyle` | Gün bazlı hayatta kalma ve karar verme bölümü |
-| `Result` | Kazanma / kaybetme sonucu ve final istatistik ekranı |
-
-## Menü ve Ek Sistemler
-
-Oyunda sadece temel oynanış değil, tamamlayıcı sistemler de bulunur:
-
-- Ana menü
-- Devam et sistemi
-- Kayıt / yükleme sistemi
-- Pause menüsü
-- Ses ayarları
-- Buton sesleri
-- Sonuç ekranı
-- Gün sonu tavsiye sistemi
-- Çocuk karakterin duygu durumuna göre görsel değişim
-- Duygu durumuna göre atmosfer / müzik değişimi
-
-## Teknik Bilgiler
+## Teknik Bilgiler 🛠️
 
 | Alan | Bilgi |
 | --- | --- |
@@ -215,32 +180,14 @@ Oyunda sadece temel oynanış değil, tamamlayıcı sistemler de bulunur:
 | Dil | C# |
 | UI | Unity UI + TextMeshPro |
 
-## Proje Yapısı
-
-## Öne Çıkan Sistemler
-
-- `GameManager`
-- `SaveLoadManager`
-- `InventoryData`
-- `RunData`
-- `DifficultyData`
-- `PlayerController3D`
-- `LootInteractable`
-- `LootTimer30s`
-- `LootEvaluationController`
-- `RoofSurvivalController`
-- `RandomEventController`
-- `DailyAdviceController`
-- `ResultController`
-
-## Kurulum
+## Kurulum 🚀
 
 Oyunu çalıştırmak için:
 
 1. Bu repoyu klonla.
 2. Catiya 30 Saniye.exe dosyasını aç.
 
-## Rehber Video
+## Rehber Video 📺
 
 Oyunun nasıl oynandığını, temel mekaniklerini ve afet hazırlığı sürecini görmek için rehber videoyu izleyebilirsin.
 

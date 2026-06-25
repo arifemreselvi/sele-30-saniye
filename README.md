@@ -184,8 +184,8 @@ Kazanma durumunda oyuncu yardım ekipleri gelene kadar dayanmış olur.
 
 Oyunu çalıştırmak için:
 
-1. Bu repoyu klonla.
-2. Catiya 30 Saniye.exe dosyasını aç.
+1. Sağ taraftaki **Releases** bölümünden ya da direkt **[BURAYA TIKLAYARAK](https://github.com/arifemreselvi/sele-30-saniye/releases/download/v1.0.0/sele30saniye.rar)** oyunun en güncel halini bilgisayarına indir.
+2. İndirdiğin rar dosyasını klasöre çıkar ve içindeki `Catiya 30 Saniye.exe` dosyasına çift tıklayarak maceraya başla
 
 ## Rehber Video 📺
 
